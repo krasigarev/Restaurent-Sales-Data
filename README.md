@@ -31,6 +31,7 @@
 - sort_values(ascending = False) - To sort the values in descending order.
 - dt.month - To create a new column showing Month only.
 
+## Tasks and Questions:
 
 - What was the Most Preferred Payment Method?
 - Which one was the Most Selling Product 
